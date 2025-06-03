@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: smoothcolors
+Version: 0.1.2
+Summary: A python package for nice clean colors for your terminal tools!
+Home-page: https://coderhangout.xyz
+Author: Wock 2009
+License: MIT
+Project-URL: Homepage, https://coderhangout.xyz
+Keywords: terminal colors gradient text cli
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary
+
+# Package name > smoothcolors
+# Made by > wock2009
+# Site > https://coderhangout.xyz
+
+# Why choose smoothcolors?
+`smoothcolors` is a clean and colorful package for terminal output.
+Easily apply vibrant gradients and stylish effects to your CLI tools with minimal effort.
+Includes a wide range of smooth and visually pleasing color sets.
