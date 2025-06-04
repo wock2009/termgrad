@@ -1,8 +1,0 @@
-README.md
-setup.py
-smoothcolors/__init__.py
-smoothcolors/color.py
-smoothcolors.egg-info/PKG-INFO
-smoothcolors.egg-info/SOURCES.txt
-smoothcolors.egg-info/dependency_links.txt
-smoothcolors.egg-info/top_level.txt

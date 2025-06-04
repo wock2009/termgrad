@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+termgrad/__init__.py
+termgrad/colors.py
+termgrad.egg-info/PKG-INFO
+termgrad.egg-info/SOURCES.txt
+termgrad.egg-info/dependency_links.txt
+termgrad.egg-info/top_level.txt

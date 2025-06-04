@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="smoothcolors",
-    version="0.1.2",
+    name="termgrad",
+    version="0.1.3",
     author="Wock 2009",
     description="A python package for nice clean colors for your terminal tools!",
     long_description=open("README.md", encoding="utf-8").read(),

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: smoothcolors
-Version: 0.1.2
+Name: termgrad
+Version: 0.1.3
 Summary: A python package for nice clean colors for your terminal tools!
 Home-page: https://coderhangout.xyz
 Author: Wock 2009
@@ -25,11 +25,11 @@ Dynamic: project-url
 Dynamic: requires-python
 Dynamic: summary
 
-# Package name > smoothcolors
+# Package name > termgrad 
 # Made by > wock2009
 # Site > https://coderhangout.xyz
 
-# Why choose smoothcolors?
-`smoothcolors` is a clean and colorful package for terminal output.
+# Why choose termgrad?
+`termgrad ` is a clean and colorful package for terminal output.
 Easily apply vibrant gradients and stylish effects to your CLI tools with minimal effort.
 Includes a wide range of smooth and visually pleasing color sets.
